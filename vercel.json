@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "name": "dicoding-flutter-story-app-web-build",
+  "rewrites": [
+    { "source": "/:a*", "destination": "/" }
+  ]
+}
